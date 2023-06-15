@@ -1,6 +1,6 @@
 # House sales in King County,USA
 
-In this project we will be determining the market price of a house given a set of features. We will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
+In this project we determined the market price of a house given a set of features. We analyzed and predicted housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
 
 ## Dataset Used in this Assignment
 
